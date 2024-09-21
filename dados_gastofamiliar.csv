@@ -1,0 +1,192 @@
+Mês,Ano,Categoria,Matias,Andréia,Matheus,Jéssica
+Janeiro,2022,Cartão de Crédito,150,200,100,100
+Janeiro,2022,Mercado,500,450,300,300
+Janeiro,2022,Lazer,200,150,100,100
+Janeiro,2022,Faculdade Matheus,0,0,500,0
+Janeiro,2022,Faculdade Jéssica,0,0,0,500
+Janeiro,2022,Gasolina,250,250,150,150
+Janeiro,2022,Outros,100,100,50,50
+
+Fevereiro,2022,Cartão de Crédito,160,210,110,110
+Fevereiro,2022,Mercado,520,470,310,310
+Fevereiro,2022,Lazer,220,160,110,110
+Fevereiro,2022,Faculdade Matheus,0,0,500,0
+Fevereiro,2022,Faculdade Jéssica,0,0,0,500
+Fevereiro,2022,Gasolina,260,260,160,160
+Fevereiro,2022,Outros,110,110,60,60
+
+Março,2022,Cartão de Crédito,155,205,105,105
+Março,2022,Mercado,510,460,305,305
+Março,2022,Lazer,210,155,105,105
+Março,2022,Faculdade Matheus,0,0,500,0
+Março,2022,Faculdade Jéssica,0,0,0,500
+Março,2022,Gasolina,255,255,155,155
+Março,2022,Outros,105,105,55,55
+
+Abril,2022,Cartão de Crédito,165,215,115,115
+Abril,2022,Mercado,530,480,320,320
+Abril,2022,Lazer,230,170,120,120
+Abril,2022,Faculdade Matheus,0,0,500,0
+Abril,2022,Faculdade Jéssica,0,0,0,500
+Abril,2022,Gasolina,270,270,170,170
+Abril,2022,Outros,120,120,65,65
+
+Maio,2022,Cartão de Crédito,170,220,120,120
+Maio,2022,Mercado,540,490,330,330
+Maio,2022,Lazer,240,180,130,130
+Maio,2022,Faculdade Matheus,0,0,500,0
+Maio,2022,Faculdade Jéssica,0,0,0,500
+Maio,2022,Gasolina,280,280,180,180
+Maio,2022,Outros,130,130,70,70
+
+Junho,2022,Cartão de Crédito,175,225,125,125
+Junho,2022,Mercado,550,500,340,340
+Junho,2022,Lazer,250,190,140,140
+Junho,2022,Faculdade Matheus,0,0,500,0
+Junho,2022,Faculdade Jéssica,0,0,0,500
+Junho,2022,Gasolina,290,290,190,190
+Junho,2022,Outros,140,140,75,75
+
+Julho,2022,Cartão de Crédito,180,230,130,130
+Julho,2022,Mercado,560,510,350,350
+Julho,2022,Lazer,260,200,150,150
+Julho,2022,Faculdade Matheus,0,0,500,0
+Julho,2022,Faculdade Jéssica,0,0,0,500
+Julho,2022,Gasolina,300,300,200,200
+Julho,2022,Outros,150,150,80,80
+
+Agosto,2022,Cartão de Crédito,185,235,135,135
+Agosto,2022,Mercado,570,520,360,360
+Agosto,2022,Lazer,270,210,160,160
+Agosto,2022,Faculdade Matheus,0,0,500,0
+Agosto,2022,Faculdade Jéssica,0,0,0,500
+Agosto,2022,Gasolina,310,310,210,210
+Agosto,2022,Outros,160,160,85,85
+
+Setembro,2022,Cartão de Crédito,190,240,140,140
+Setembro,2022,Mercado,580,530,370,370
+Setembro,2022,Lazer,280,220,170,170
+Setembro,2022,Faculdade Matheus,0,0,500,0
+Setembro,2022,Faculdade Jéssica,0,0,0,500
+Setembro,2022,Gasolina,320,320,220,220
+Setembro,2022,Outros,170,170,90,90
+
+Outubro,2022,Cartão de Crédito,195,245,145,145
+Outubro,2022,Mercado,590,540,380,380
+Outubro,2022,Lazer,290,230,180,180
+Outubro,2022,Faculdade Matheus,0,0,500,0
+Outubro,2022,Faculdade Jéssica,0,0,0,500
+Outubro,2022,Gasolina,330,330,230,230
+Outubro,2022,Outros,180,180,95,95
+
+Novembro,2022,Cartão de Crédito,200,250,150,150
+Novembro,2022,Mercado,600,550,390,390
+Novembro,2022,Lazer,300,240,190,190
+Novembro,2022,Faculdade Matheus,0,0,500,0
+Novembro,2022,Faculdade Jéssica,0,0,0,500
+Novembro,2022,Gasolina,340,340,240,240
+Novembro,2022,Outros,190,190,100,100
+
+Dezembro,2022,Cartão de Crédito,210,260,160,160
+Dezembro,2022,Mercado,620,570,400,400
+Dezembro,2022,Lazer,320,250,200,200
+Dezembro,2022,Faculdade Matheus,0,0,500,0
+Dezembro,2022,Faculdade Jéssica,0,0,0,500
+Dezembro,2022,Gasolina,350,350,250,250
+Dezembro,2022,Outros,200,200,110,110
+
+Janeiro,2023,Cartão de Crédito,220,270,170,170
+Janeiro,2023,Mercado,630,580,410,410
+Janeiro,2023,Lazer,330,260,210,210
+Janeiro,2023,Faculdade Matheus,0,0,500,0
+Janeiro,2023,Faculdade Jéssica,0,0,0,500
+Janeiro,2023,Gasolina,360,360,260,260
+Janeiro,2023,Outros,210,210,120,120
+
+Fevereiro,2023,Cartão de Crédito,225,275,175,175
+Fevereiro,2023,Mercado,640,590,420,420
+Fevereiro,2023,Lazer,340,270,220,220
+Fevereiro,2023,Faculdade Matheus,0,0,500,0
+Fevereiro,2023,Faculdade Jéssica,0,0,0,500
+Fevereiro,2023,Gasolina,370,370,270,270
+Fevereiro,2023,Outros,220,220,130,130
+
+Março,2023,Cartão de Crédito,230,280,180,180
+Março,2023,Mercado,650,600,430,430
+Março,2023,Lazer,350,280,230,230
+Março,2023,Faculdade Matheus,0,0,500,0
+Março,2023,Faculdade Jéssica,0,0,0,500
+Março,2023,Gasolina,380,380,280,280
+Março,2023,Outros,230,230,140,140
+
+Abril,2023,Cartão de Crédito,235,285,185,185
+Abril,2023,Mercado,660,610,440,440
+Abril,2023,Lazer,360,290,240,240
+Abril,2023,Faculdade Matheus,0,0,500,0
+Abril,2023,Faculdade Jéssica,0,0,0,500
+Abril,2023,Gasolina,390,390,290,290
+Abril,2023,Outros,240,240,150,150
+
+Maio,2023,Cartão de Crédito,240,290,190,190
+Maio,2023,Mercado,670,620,450,450
+Maio,2023,Lazer,370,300,250,250
+Maio,2023,Faculdade Matheus,0,0,500,0
+Maio,2023,Faculdade Jéssica,0,0,0,500
+Maio,2023,Gasolina,400,400,300,300
+Maio,2023,Outros,250,250,160,160
+
+Junho,2023,Cartão de Crédito,245,295,195,195
+Junho,2023,Mercado,680,630,460,460
+Junho,2023,Lazer,380,310,260,260
+Junho,2023,Faculdade Matheus,0,0,500,0
+Junho,2023,Faculdade Jéssica,0,0,0,500
+Junho,2023,Gasolina,410,410,310,310
+Junho,2023,Outros,260,260,170,170
+
+Julho,2023,Cartão de Crédito,250,300,200,200
+Julho,2023,Mercado,690,640,470,470
+Julho,2023,Lazer,390,320,270,270
+Julho,2023,Faculdade Matheus,0,0,500,0
+Julho,2023,Faculdade Jéssica,0,0,0,500
+Julho,2023,Gasolina,420,420,320,320
+Julho,2023,Outros,270,270,180,180
+
+Agosto,2023,Cartão de Crédito,255,305,205,205
+Agosto,2023,Mercado,700,650,480,480
+Agosto,2023,Lazer,400,330,280,280
+Agosto,2023,Faculdade Matheus,0,0,500,0
+Agosto,2023,Faculdade Jéssica,0,0,0,500
+Agosto,2023,Gasolina,430,430,330,330
+Agosto,2023,Outros,280,280,190,190
+
+Setembro,2023,Cartão de Crédito,260,310,210,210
+Setembro,2023,Mercado,710,660,490,490
+Setembro,2023,Lazer,410,340,290,290
+Setembro,2023,Faculdade Matheus,0,0,500,0
+Setembro,2023,Faculdade Jéssica,0,0,0,500
+Setembro,2023,Gasolina,440,440,340,340
+Setembro,2023,Outros,290,290,200,200
+
+Outubro,2023,Cartão de Crédito,265,315,215,215
+Outubro,2023,Mercado,720,670,500,500
+Outubro,2023,Lazer,420,350,300,300
+Outubro,2023,Faculdade Matheus,0,0,500,0
+Outubro,2023,Faculdade Jéssica,0,0,0,500
+Outubro,2023,Gasolina,450,450,350,350
+Outubro,2023,Outros,300,300,210,210
+
+Novembro,2023,Cartão de Crédito,270,320,220,220
+Novembro,2023,Mercado,730,680,510,510
+Novembro,2023,Lazer,430,360,310,310
+Novembro,2023,Faculdade Matheus,0,0,500,0
+Novembro,2023,Faculdade Jéssica,0,0,0,500
+Novembro,2023,Gasolina,460,460,360,360
+Novembro,2023,Outros,310,310,220,220
+
+Dezembro,2023,Cartão de Crédito,280,330,230,230
+Dezembro,2023,Mercado,750,700,520,520
+Dezembro,2023,Lazer,450,380,330,330
+Dezembro,2023,Faculdade Matheus,0,0,500,0
+Dezembro,2023,Faculdade Jéssica,0,0,0,500
+Dezembro,2023,Gasolina,480,480,380,380
+Dezembro,2023,Outros,320,320,230,230
